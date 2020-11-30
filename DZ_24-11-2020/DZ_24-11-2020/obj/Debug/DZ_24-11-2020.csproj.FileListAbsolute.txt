@@ -1,0 +1,10 @@
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\bin\Debug\DZ_24-11-2020.exe.config
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\bin\Debug\DZ_24-11-2020.exe
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\bin\Debug\DZ_24-11-2020.pdb
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\obj\Debug\DZ_24_11_2020.Properties.Resources.resources
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\obj\Debug\DZ_24-11-2020.csproj.GenerateResource.cache
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\obj\Debug\DZ_24-11-2020.csproj.CoreCompileInputs.cache
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\obj\Debug\DZ_24-11-2020.exe
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\obj\Debug\DZ_24-11-2020.pdb
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\obj\Debug\DZ_24_11_2020.MainForm.resources
+E:\Report\DZ_24-11-2020\DZ_24-11-2020\obj\Debug\DZ_24-11-2020.csprojAssemblyReference.cache
